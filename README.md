@@ -1,13 +1,14 @@
-# Olá, eu sou o [SEU NOME] 👋
+# Olá, eu sou o SAOJ (Joás Schmidt). 👋
 
 ### 🚀 Sobre mim
-Desenvolvedor em constante evolução, focado em aprender novas tecnologias e construir projetos interessantes.
+Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens..
 
 ---
 
 ### 📚 Aprendendo no momento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,react" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> 
+  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/04/javascript-logo.png" /> 
 </p>
 
 ---
