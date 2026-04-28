@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o [SEU NOME] 👋
 
-<!--
-**SAOJjoas/SAOJjoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
+Desenvolvedor em constante evolução, focado em aprender novas tecnologias e construir projetos interessantes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Aprendendo no momento
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,py,react" /> 
+</p>
+
+---
+
+### 🔗 Links e Redes Sociais
+* 💼 **LinkedIn:** [link-do-seu-perfil]
+* 📧 **E-mail:** [seu-email@exemplo.com]
+* 🌐 **Portfólio:** [link-do-seu-site]
+* 🐦 **Twitter/X:** [seu-user]
+
+---
