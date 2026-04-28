@@ -1,7 +1,7 @@
 # Olá, eu sou o SAOJ (Joás Schmidt). 👋
 
 ### 🚀 Sobre mim
-Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens..
+Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens.
 
 ---
 
@@ -15,9 +15,7 @@ Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas l
 ---
 
 ### 🔗 Links e Redes Sociais
-* 💼 **LinkedIn:** [link-do-seu-perfil]
-* 📧 **E-mail:** [seu-email@exemplo.com]
-* 🌐 **Portfólio:** [link-do-seu-site]
-* 🐦 **Twitter/X:** [seu-user]
+* 📧 **E-mail:** joasschmidteh@gmail.com
+* 📸 **Instagram:** chucrute_19
 
 ---
