@@ -7,8 +7,8 @@ Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas l
 
 ### 📚 Aprendendo no momento
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> 
-  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/04/javascript-logo.png" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="50" /> 
+  <img src="https://devkico.itexto.com.br/wp-content/uploads/2014/04/javascript-logo.png" width="50" /> 
 </p>
 
 ---
