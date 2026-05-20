@@ -16,7 +16,6 @@ Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas l
 
 ### 😊 Afinidade média
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/250px-Ruby_logo.svg.png?_=20101129171534" width="50" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" />
 </p>
 ---
