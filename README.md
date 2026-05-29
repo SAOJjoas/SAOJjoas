@@ -6,7 +6,7 @@ Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas l
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SAOJjoas&layout=donut&theme=dracula&hide_border=true&include_all_commits=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SAOJjoas&layout=donut&theme=dracula" alt="Linguagens mais usadas" />
 
   <br />
   
