@@ -2,9 +2,6 @@
 
 ### 😎 Sobre mim
 Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens. 
-
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/15135742/original_9b0fa6b55085e458228f4ac3c5d6cc62.gif?1644634851" width="75"><img src="https://media.tenor.com/sUUB6XtgOnoAAAAj/grumpig-pig.gif" width="100"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/949.gif" width="75"><img src="https://wiki.otpokemon.com/images/2/2c/Wailord.gif" width="150"><img src="https://media.tenor.com/_9fhj954IXEAAAAj/pincurchin-pokemon.gif" width="100"><img src="https://github.com/andre23arruda/pokemons-gifs/blob/main/ani/toucannon.gif?raw=true" width="100">
-
 ---
 
 <div align="center">
