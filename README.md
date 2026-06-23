@@ -3,7 +3,6 @@
 ### 😎 Sobre mim
 Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens. 
 
-<img width="62" height="58" alt="Forretress Animado" src="https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/205.gif" />
 ---
 
 <div align="center">
