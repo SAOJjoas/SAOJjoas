@@ -1,30 +1,45 @@
-# Olá, eu sou o SAOJ (Joás Schmidt). 👋
+<div align="center">
 
-### 😎 Sobre mim
-Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens. 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=%2320b2aa,%23ff7f50&height=220&section=header&text=SAOJ%20%2F%2F%20JOÁS%20SCHMIDT&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="Banner Solarpunk" />
+
+<img src="https://media.giphy.com/media/Vw8tSg06g4P96/giphy.gif" width="100%" height="35px" style="object-fit: cover; opacity: 0.8;" />
+
+### 💼 [ Status ]
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SAOJjoas?label=Followers&style=for-the-badge&color=34e89e&labelColor=111811" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/SAOJjoas?label=Stars&style=for-the-badge&color=f5af19&labelColor=111811" alt="Stars" />
+</p>
+
+![Minhas Linguagens](https://github-readme-stats.shion.dev/api/top-langs/?username=SAOJjoas&layout=donut&theme=dracula)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SAOJjoas&layout=donut&theme=dracula" alt="Linguagens mais usadas" />
+### 📡 [ OVERVIEW ]
 
-  <br />
-  
-  <h3>🛠️ Tecnologias e Linguagens</h3>
+> "Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens."
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-  ![Odin](https://img.shields.io/badge/ODIN-1a1b26?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDBhM2ZmIiBkPSJNMjU2IDBDMTE0LjYgMCAwIDExNC42IDAgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2UzM5Ny40IDAgMjU2IDB6Ii8+PHBhdGggZmlsbD0iIzFkNDVkOCIgZD0iTTI1NiA1MTJDMTE0LjYgNTEyIDAgMzk3LjQgMCAyNTZTMTE0LjYgMCAyNTYgMGM1My41IDAgMTAzLjQgMTYuNiAxNDQuNiA0NC45QzMzMi40IDgzLjUgMjg5IDEzNi43IDI4OSAxOTdjMCA5Ni43IDc4LjMgMTc1IDE3NSAxNzUgMTguMyAwIDM2LjEtMi44IDUzLTguMSBDNDk1LjQgNDE3LjQgNDA2LjUgNTEyIDI1NiA1MTJ6Ii8+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTQzMy40IDg5LjNDMzY5LjUgMTI4LjQgMzI1IDE5OC4xIDMyNSAyNzVjMCAxMDcuNyA4Ny4zIDE5NSAxOTUgMTk1IDIzLjEgMCA0NS4zLTMuOSA2Ni0xMS4xQzUzOC41IDM0NC43IDQ3NC45IDE0MiA0MzMuNCA4OS4zeiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RpcCIgZmlsbD0iIzAwNWM5OSIgZD0iTTI1NiA1MTJDMTE0LjYgNTEyIDAgMzk3LjQgMCAyNTZDMCAxODAuNiA0MS4yIDExNS4zIDEwNC42IDgwLjggQzgxLjUgMTI3LjkgNjggMTgyLjMgNjggMjQwYzAgMTAzLjggODQuMiAxODggMTg4IDE4OGM0OS43IDAgOTQuOC0xOS40IDEyOC40LTUxLjFDMzUzLjIgNDgzLjMgMzA3IDUxMiAyNTYgNTEyeiIvPjwvc3ZnPg==)
+---
+
+### ⚡ [ TECH_ELEMENTS ]
+
 </div>
 
----
+#### 🌲 Core Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-34e89e?style=for-the-badge&logo=openjdk&logoColor=111811" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-f5af19?style=for-the-badge&logo=javascript&logoColor=111811" alt="JavaScript" />
+</p>
 
-### 🔗 Links e Redes Sociais
-* 📧 **E-mail:** joasschmidteh@gmail.com
-* 📸 **Instagram:** chucrute_19
+#### 🎮 Simulation & Scripts
+<p align="left">
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Odin-111811?style=for-the-badge" alt="Odin" />
+</p>
 
----
+#### 🍃 Interfaces
+<p align="left">
+  
+</p>
