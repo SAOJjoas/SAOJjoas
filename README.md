@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Odin-111811?style=for-the-badge" alt="Odin" />
+  <img src="https://img.shields.io/badge/🐮_Beef-8B0000?style=for-the-badge" alt="Beef" />
 </p>
 
 #### 🍃 Interfaces
