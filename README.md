@@ -1,48 +1,71 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=%2320b2aa,%23ff7f50&height=220&section=header&text=SAOJ%20%2F%2F%20JOÁS%20SCHMIDT&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="Banner Solarpunk" />
-
-<img src="https://media.giphy.com/media/Vw8tSg06g4P96/giphy.gif" width="100%" height="35px" style="object-fit: cover; opacity: 0.8;" />
-
-### 💼 [ Status ]
+# 🧑‍💻 Olá, eu sou o Joás Schmidt! (SAOJjoas)
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/SAOJjoas?label=Followers&style=for-the-badge&color=34e89e&labelColor=111811" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/SAOJjoas?label=Stars&style=for-the-badge&color=f5af19&labelColor=111811" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Desenvolvedor%20Aprendiz%20%40%20WEG-blue?style=for-the-badge&logo=work&logoColor=white" alt="Status WEG">
+  <img src="https://img.shields.io/badge/Localização-Guaramirim%2C%20SC-green?style=for-the-badge&logo=map&logoColor=white" alt="Localização">
 </p>
-
-![Minhas Linguagens](https://github-readme-stats.shion.dev/api/top-langs/?username=SAOJjoas&layout=donut&theme=dracula)
 
 ---
 
-### 📡 [ OVERVIEW ]
+### 📝 Sobre Mim
 
-> "Desenvolvedor aprendiz da WEG que gosta muito de programar e de aprender novas linguagens."
+Sou um programador de 16 anos, **Guaramirim, Santa Catarina**. Atualmente, atuo como **Desenvolvedor Aprendiz na WEG**, onde tenho a oportunidade de aplicar tecnologia no mundo real e evoluir constantemente. Sou fascinado pela arte de programar, resolver problemas e, principalmente, por aprender novas linguagens e tecnologias continuamente.
+
+- 💼 **Ocupação Atual:** Desenvolvedor Aprendiz na **WEG**
+- 🌱 **Foco de Aprendizado:** Engenharia de software, desenvolvimento de jogos e automação
+- ⚡ **Curiosidade:** Adoro explorar linguagens de nicho e engines de jogos como a Godot
 
 ---
 
-### ⚡ [ TECH_ELEMENTS ]
+### 🛠️ Tecnologias & Habilidades
 
-</div>
+#### 🚀 Linguagens Principais (Core)
+Estas são as linguagens que mais utilizo no meu dia a dia para construir soluções robustas e lógicas estruturadas:
 
-#### 🌲 Core Languages
+| Linguagem | Nível/Familiaridade | Badge |
+| :--- | :--- | :--- |
+| **Java** | Principal (98%+) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Python** | Intermediário | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **JavaScript** | Intermediário | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+
+#### 🎮 Simulação, Scripts & Outros
+Também tenho grande interesse em desenvolvimento de jogos, scripting e exploração de linguagens de sistemas de baixo nível:
+
+- **GDScript** (Godot Engine) &emsp; ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+- **Lua** &emsp; ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=flat-square&logo=lua&logoColor=white)
+- **Odin** &emsp; ![Odin](https://img.shields.io/badge/Odin-black?style=flat-square)
+- **Beef** &emsp; ![Beef](https://img.shields.io/badge/Beef-brown?style=flat-square)
+
+#### 💻 Ferramentas & Interfaces (IDEs)
+Minhas ferramentas preferidas para dar vida aos projetos:
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-34e89e?style=for-the-badge&logo=openjdk&logoColor=111811" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-f5af19?style=for-the-badge&logo=javascript&logoColor=111811" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white" alt="Godot">
 </p>
 
-#### 🎮 Simulation & Scripts
-<p align="left">
-  <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Odin-111811?style=for-the-badge" alt="Odin" />
-  <img src="https://img.shields.io/badge/🐮_Beef-8B0000?style=for-the-badge" alt="Beef" />
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SAOJjoas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Joás" height="150px">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SAOJjoas&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" height="150px">
+</p>
+---
+
+### 📫 Conecte-se Comigo
+
+Gosto de trocar ideias sobre desenvolvimento, novos projetos e tecnologias inovadoras. Sinta-se à vontade para entrar em contato ou acompanhar meus repositórios!
+
+<p align="center">
+  <a href="https://github.com/SAOJjoas">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-#### 🍃 Interfaces
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+<p align="center">
+  <sub>Criado com ☕ e muito código por <b>Joás Schmidt</b>.</sub>
 </p>
