@@ -25,7 +25,6 @@ Estas são as linguagens que mais utilizo no meu dia a dia para construir soluç
 | Linguagem | Nível/Familiaridade | Badge |
 | :--- | :--- | :--- |
 | **Java** | Principal (98%+) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Python** | Intermediário | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **JavaScript** | Intermediário | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 
 #### 🎮 Simulação, Scripts & Outros
