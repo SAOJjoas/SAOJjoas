@@ -33,7 +33,6 @@ Também tenho grande interesse em desenvolvimento de jogos, scripting e explora�
 - **GDScript** (Godot Engine) &emsp; ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 - **Lua** &emsp; ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=flat-square&logo=lua&logoColor=white)
 - **Odin** &emsp; ![Odin](https://img.shields.io/badge/Odin-black?style=flat-square)
-- **Beef** &emsp; ![Beef](https://img.shields.io/badge/Beef-brown?style=flat-square)
 
 #### 💻 Ferramentas & Interfaces (IDEs)
 Minhas ferramentas preferidas para dar vida aos projetos:
