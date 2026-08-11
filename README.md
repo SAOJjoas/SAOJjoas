@@ -9,7 +9,7 @@
 
 ### 📝 Sobre Mim
 
-Sou um programador de 16 anos, **Guaramirim, Santa Catarina**. Atualmente, atuo como **Desenvolvedor Aprendiz na WEG**, onde tenho a oportunidade de aplicar tecnologia no mundo real e evoluir constantemente. Sou fascinado pela arte de programar, resolver problemas e, principalmente, por aprender novas linguagens e tecnologias continuamente.
+Sou um programador de 17 anos, **Guaramirim, Santa Catarina**. Atualmente, atuo como **Desenvolvedor Aprendiz na WEG**, onde tenho a oportunidade de aplicar tecnologia no mundo real e evoluir constantemente. Sou fascinado pela arte de programar, resolver problemas e, principalmente, por aprender novas linguagens e tecnologias continuamente.
 
 - 💼 **Ocupação Atual:** Desenvolvedor Aprendiz na **WEG**
 - 🌱 **Foco de Aprendizado:** Engenharia de software, desenvolvimento de jogos e automação
@@ -24,7 +24,7 @@ Estas são as linguagens que mais utilizo no meu dia a dia para construir soluç
 
 | Linguagem | Nível/Familiaridade | Badge |
 | :--- | :--- | :--- |
-| **Java** | Principal (98%+) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Java** | Principal (99%+) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **JavaScript** | Intermediário | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
 | **C** | Intermediário | ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) |
 
