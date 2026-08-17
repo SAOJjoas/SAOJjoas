@@ -34,7 +34,6 @@ Também tenho grande interesse em desenvolvimento de jogos, scripting e explora�
 - **GDScript** &emsp; ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 - **GML** &emsp; ![GML](https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white)
 - **Lua** &emsp; ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=flat-square&logo=lua&logoColor=white)
-- **LÖVE (Love2D)** &emsp; ![LÖVE](https://img.shields.io/badge/LÖVE-E40046?style=flat-square&logo=love&logoColor=white)
 
 #### 💻 Ferramentas & Interfaces (IDEs)
 Minhas ferramentas preferidas para dar vida aos projetos:
@@ -43,7 +42,6 @@ Minhas ferramentas preferidas para dar vida aos projetos:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white" alt="Godot">
   <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=GameMaker&logoColor=white" alt="GameMaker">
-  <img src="https://img.shields.io/badge/LÖVE-E40046?style=for-the-badge&logo=love&logoColor=white" alt="LÖVE Framework">
 </p>
 
 ---
