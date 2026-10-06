@@ -1,72 +1,47 @@
-# 🧑‍💻 Olá, eu sou o Joás Schmidt! (SAOJjoas)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Desenvolvedor%20Aprendiz%20%40%20WEG-blue?style=for-the-badge&logo=work&logoColor=white" alt="Status WEG">
-  <img src="https://img.shields.io/badge/Localização-Guaramirim%2C%20SC-green?style=for-the-badge&logo=map&logoColor=white" alt="Localização">
+<p align="left"> 
+  Olá, eu sou o Joás Schmidt, jovem programador que faz CentroWeg de Técnico em Informatica para Internet.
+  Gosto de fazer jogos e quero investir em cibersegurança.
 </p>
-
----
-
-### 📝 Sobre Mim
-
-Sou um programador de 17 anos, **Guaramirim, Santa Catarina**. Atualmente, atuo como **Desenvolvedor Aprendiz na WEG**, onde tenho a oportunidade de aplicar tecnologia no mundo real e evoluir constantemente. Sou fascinado pela arte de programar, resolver problemas e, principalmente, por aprender novas linguagens e tecnologias continuamente.
-
-- 💼 **Ocupação Atual:** Desenvolvedor Aprendiz na **WEG**
-- 🌱 **Foco de Aprendizado:** Engenharia de software, desenvolvimento de jogos e automação
-- ⚡ **Curiosidade:** Adoro explorar linguagens de nicho e engines de jogos como a Godot
-
----
-
-### 🛠️ Tecnologias & Habilidades
-
-#### 🚀 Linguagens Principais (Core)
-Estas são as linguagens que mais utilizo no meu dia a dia para construir soluções robustas e lógicas estruturadas:
-
-| Linguagem | Nível/Familiaridade | Badge |
-| :--- | :--- | :--- |
-| **Java** | Principal (99%+) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **JavaScript** | Intermediário | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **C** | Intermediário | ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white) |
-
-#### 🎮 Simulação, Scripts & Outros
-Também tenho grande interesse em desenvolvimento de jogos, scripting e exploração de linguagens de sistemas de baixo nível:
-
-- **GDScript** &emsp; ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-- **GML** &emsp; ![GML](https://img.shields.io/badge/GML-000000?style=flat-square&logo=gamemaker&logoColor=white)
-- **Lua** &emsp; ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=flat-square&logo=lua&logoColor=white)
-
-#### 💻 Ferramentas & Interfaces (IDEs)
-Minhas ferramentas preferidas para dar vida aos projetos:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white" alt="Godot">
-  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=GameMaker&logoColor=white" alt="GameMaker">
+&nbsp; 🦄 Linguagens & Tecnologias:
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SAOJjoas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Joás" height="150px">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SAOJjoas&layout=compact&langs_count=7&theme=dark" alt="Linguagens Mais Usadas" height="150px">
+<p align="left">
+&nbsp; <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+&nbsp; <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+&nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+&nbsp; <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+&nbsp; <img src="https://img.shields.io/badge/Bevy-%23232326.svg?style=flat-square&logo=bevy&logoColor=white" alt="Bevy"/>
+&nbsp; <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+&nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+&nbsp; <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
----
-
-### 📫 Conecte-se Comigo
-
-Gosto de trocar ideias sobre desenvolvimento, novos projetos e tecnologias inovadoras. Sinta-se à vontade para entrar em contato ou acompanhar meus repositórios!
-
-<p align="center">
-  <a href="https://github.com/SAOJjoas">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<p align="left">
+&nbsp; 💼 Ferramentas:
 </p>
 
----
+<p align="left">
+&nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+&nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+&nbsp; <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-<p align="center">
-  <sub>Criado com ☕ e muito código por <b>Joás Schmidt</b>.</sub>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
